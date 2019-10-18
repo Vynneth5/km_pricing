@@ -1,5 +1,5 @@
 # km_pricing
-shift knob pricing for Etsy
+shift knob pricing for personal Etsy account
 
 Will help take the cost of materials, length of yarn used, time, and minimum local wage* into consideration when pricing commissions.
 
